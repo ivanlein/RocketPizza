@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "src": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+    "title": "Cheeseburger",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 539,
+    "category": 1
+  },
+  {
+    "id": 1,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D6149EB101D8727573088FA2EFF.avif",
+    "title": "Mexican",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 499,
+    "category": 0
+  },
+  {
+    "id": 2,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D610A62D78598406363A9A8AD65.avif",
+    "title": "Pepperoni",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 349,
+    "category": 0
+  },
+  {
+    "id": 3,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D60FDA22358AC33C6A44EB093A2.avif",
+    "title": "Ham and cheese",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 439,
+    "category": 0
+  },
+  {
+    "id": 4,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D613B84A5DBB4C1C50FB9583B7E.avif",
+    "title": "Pesto",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 589,
+    "category": 0
+  },
+  {
+    "id": 5,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D611ADF5AAD898B8B651186E023.avif",
+    "title": "Four seasons",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 499,
+    "category": 0
+  },
+  {
+    "id": 6,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EF5B10B39BBBBDA9F8C4E4FF1B067C.avif",
+    "title": "Ham and mushrooms",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 499,
+    "category": 0
+  },
+  {
+    "id": 7,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D6105EF6690B86FBDE6150B5B0C.avif",
+    "title": "Margarita",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 489,
+    "category": 0
+  },
+  {
+    "id": 8,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D61546D8483A61A0BBAA7ADCC78.avif",
+    "title": "Vegetables and mushrooms",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 559,
+    "category": 0
+  },
+  {
+    "id": 9,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D6122BB3424B593BB15EACE3197.avif",
+    "title": "Double pepperoni",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 569,
+    "category": 0
+  },
+  {
+    "id": 10,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D6150D498419E133DF19945A00D.avif",
+    "title": "BBQ sausages",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 509,
+    "category": 0
+  },
+  {
+    "id": 11,
+    "src": "https://media.dodostatic.net/image/r:292x292/11EE7D617E9339CFB185921A343AD8FD.avif",
+    "title": "Hawaiian",
+    "types": [0, 1],
+    "size": [25, 30, 40],
+    "price": 499,
+    "category": 0
+  }
+]
