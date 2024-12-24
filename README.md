@@ -1,3 +1,5 @@
+Rocket Pizza V2: New functionality has been added, some shortcomings in the appearance have been corrected, the entire project has been rewritten in TypeScript, data from the backend is now saved in localStorage, redrawing of components and project assembly has been optimized
+
 ![image](https://github.com/user-attachments/assets/dc075d73-80ab-4dfe-87c0-b00e15a1bda9)
 
 
