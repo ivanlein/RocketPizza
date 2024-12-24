@@ -206,6 +206,23 @@ body {
             display: none;
           }
         }
+
+        &--disabled {
+          opacity: 0.4;
+          border-color: transparent;
+
+          &:hover {
+            background-color: transparent;
+
+            svg path {
+              fill: transparent;
+            }
+          }
+
+          svg path {
+            fill: transparent;
+          }
+        }
       }
 
       b {
@@ -260,7 +277,8 @@ body {
       }
     }
     @media (max-width: 800px) {
-      padding-left: 20px;
+      padding-left: 15%;
+      padding-right: 0%;
       display: grid;
       align-items: center;
       justify-items: start;
@@ -290,7 +308,7 @@ body {
         grid-area: 2 / 3 / 3 / 4;
         align-self: start;
         justify-self: end;
-        margin-left: 30px;
+        margin-left: 0px;
       }
     }
   }

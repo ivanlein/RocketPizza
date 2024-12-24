@@ -1,5 +1,15 @@
 {
   "dependencies": {
-    "react-paginate": "^8.2.0"
+    "@types/react-loadable": "^5.5.11",
+    "ahooks": "^3.8.4",
+    "clsx": "^2.1.1",
+    "react-loadable": "^5.5.0",
+    "react-loader-spinner": "^6.1.6",
+    "react-paginate": "^8.2.0",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5"
+  },
+  "devDependencies": {
+    "@types/lodash.debounce": "^4.0.9"
   }
 }
